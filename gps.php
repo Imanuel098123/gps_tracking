@@ -1,6 +1,6 @@
 <?php 
 /*
-	Author 	: Brilly4n
+	Author 	: N00B T4RS4K1T1
 	Team 	: { IndoSec }
 	Tools 	: Information Gathering
 	Fanspage: https://www.facebook.com/IndoSecOfficial
